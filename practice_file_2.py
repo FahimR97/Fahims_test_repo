@@ -1,0 +1,1 @@
+print("Hello my name is Fahim and I am 26")
